@@ -15,6 +15,18 @@ function App() {
             
           
         </div>
+        <div>
+          <div className="avatar">
+  <div className="w-24 rounded-xl">
+    <img alt="Tailwind-CSS-Avatar-component" src="https://img.daisyui.com/images/profile/demo/yellingwoman@192.webp" />
+  </div>
+</div>
+<div className="avatar">
+  <div className="w-24 rounded-full">
+    <img alt="Tailwind-CSS-Avatar-component" src="https://img.daisyui.com/images/profile/demo/yellingcat@192.webp" />
+  </div>
+</div>
+        </div>
         <button
           type="button"
           className="counter"
