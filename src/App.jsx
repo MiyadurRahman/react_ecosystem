@@ -17,7 +17,7 @@ function App() {
         </div>
         <div>
           <div className="avatar">
-  <div className="w-24 rounded-xl">
+
     <img alt="Tailwind-CSS-Avatar-component" src="https://img.daisyui.com/images/profile/demo/yellingwoman@192.webp" />
   </div>
 </div>
